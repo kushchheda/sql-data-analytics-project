@@ -51,7 +51,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ```
 data-warehouse-project/
 │
-├── datasets/                           # Prepared Medallion data from Project Part 1, and a database backup
+├── datasets/                           # Prepared Medallion data from Project Part 1
 │
 ├── docs/                               # Project documentation (view in order)
 │   ├── Project Roadmap.png             # Shows the scope of our project analysis
